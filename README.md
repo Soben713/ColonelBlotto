@@ -1,4 +1,4 @@
-# ColonelBlotto
+# An Algorithm to Find Colonel Blotto Game's Best Strategies
 An implementation of zero-sum *Colonel Blotto* game with general payoff functions.
 
 Definition of the game from [Wikipedia](https://en.wikipedia.org/wiki/Blotto_game):
